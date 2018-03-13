@@ -59,7 +59,19 @@
   background-color: #EAEAEA;
   border-radius: 50%;
   padding: 40px;
-  color: #444;
+  color: #ffffff;
+}
+
+.glyphicon:hover  {
+  background-color: #navy;
+}
+.span-hover:hover .glyphicon {
+  background-color: #navy;
+}
+
+.span-hover:hover .glyphicon{
+  color:#000000;
+  background-color: #FFFFFF;
 }
 
 
