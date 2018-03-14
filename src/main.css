@@ -62,17 +62,16 @@
   color: #ffffff;
 }
 
-.glyphicon:hover  {
-  background-color: #navy;
-}
-.span-hover:hover .glyphicon {
-  background-color: #navy;
-}
-
 .span-hover:hover .glyphicon{
   color:#000000;
   background-color: #FFFFFF;
 }
+
+.span-hover:focus .glyphicon{
+  color:#000000;
+  background-color: #FFFFFF;
+}
+
 
 
 /* STICKY FOOTER
